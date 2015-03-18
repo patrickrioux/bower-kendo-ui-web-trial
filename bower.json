@@ -13,7 +13,7 @@
 	"js/kendo.angular.min.js", 
 	"styles/kendo.common.min.css", 
 	"styles/kendo.silver.min.css",
-	"styles/kendo.common-bootstrap.min"
+	"styles/kendo.common-bootstrap.min.css"
   ],
   "moduleType": [
     "amd",
