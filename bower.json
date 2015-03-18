@@ -12,7 +12,8 @@
 	"js/kendo.web.min.js", 
 	"js/kendo.angular.min.js", 
 	"styles/kendo.common.min.css", 
-	"styles/kendo.silver.min.css" 
+	"styles/kendo.silver.min.css",
+	"styles/kendo.common-bootstrap.min"
   ],
   "moduleType": [
     "amd",
